@@ -18,10 +18,10 @@
       <div class="collapse navbar-collapse" id="navbarScroll">
         <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="http://localhost/SITIO%20WEB/inicio.html">Home</a>
+            <a class="nav-link active" aria-current="page" href="https://ferdjs35.github.io/SITIO-WEB/inicio.html">Home</a>
           </li>
         </ul>
-        <a href="http://localhost/SITIO%20WEB/login.php"><button class="btn btn-outline-success" type="submit">Iniciar sesion</button></a>
+        <a href="https://ferdjs35.github.io/SITIO-WEB/login.php"><button class="btn btn-outline-success" type="submit">Iniciar sesion</button></a>
           
       </div>
     </div>
